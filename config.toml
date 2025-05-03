@@ -1,0 +1,21 @@
+baseURL = "https://cluemasters.es/"
+languageCode = "es-es"
+title = "ClueMasters"
+theme = "PaperMod"
+
+[params]
+  author = "Raúl López"
+  showReadingTime = true
+  defaultTheme = "auto"
+  ShowShareButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Artículos"
+    url = "/posts/"
+    weight = 2
