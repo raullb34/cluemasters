@@ -1,9 +1,10 @@
 ---
 title: "🎲 Top 6 Kits de Escape Room para Montar en Casa [2025]"
+description: "Review sobre los mejores kits para jugar escape rooms en casa"
 date: 2025-05-03
 draft: false
 tags: ["escape room", "kits", "juegos de mesa", "review"]
-categories: ["Comparativas"]
+categories: ["Comparativas", "Reseñas"]
 author: "ClueMasters"
 showToc: true
 tocOpen: true

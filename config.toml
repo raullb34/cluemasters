@@ -1,13 +1,19 @@
-baseURL = "https://cluemasters.es/"
-languageCode = "es-es"
-title = "ClueMasters"
+baseURL = "http://cluemasters.es/"
+languageCode = "es"
+title = "ClueMasters | Blog de Escape Rooms y Juegos de Mesa"
 theme = "PaperMod"
+uglyURLs = false
+enableRobotsTXT = true
 
 [params]
-  author = "Raúl López"
-  showReadingTime = true
-  defaultTheme = "auto"
+  description = "Reseñas y comparativas de juegos de mesa y escape rooms, artículos para juagadores, makers y game maasters"
+  keywords = ["escape room", "kits", "juegos de mesa", "review", "blog", "reseñas", "juegos en casa", "scape rooms"]
+  author = "ClueMasters"
   ShowShareButtons = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  showtoc = true
+  tocopen = true
 
 [menu]
   [[menu.main]]

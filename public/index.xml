@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ClueMasters</title>
+    <title>ClueMasters | Blog de Escape Rooms y Juegos de Mesa</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on ClueMasters</description>
+    <description>Recent content on ClueMasters | Blog de Escape Rooms y Juegos de Mesa</description>
     <generator>Hugo -- 0.147.1</generator>
-    <language>es-es</language>
+    <language>es</language>
     <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,8 +13,7 @@
       <link>http://localhost:1313/posts/top-6-kits-de-escape-room-para-montar-en-casa-en-2025/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/top-6-kits-de-escape-room-para-montar-en-casa-en-2025/</guid>
-      <description>&lt;p&gt;¿Te imaginas vivir la emoción de un escape room sin salir de tu salón?&lt;br&gt;
-Cada vez son más las personas que buscan experiencias únicas en casa, y los kits de escape room se han convertido en una tendencia imparable. Hoy te traemos una &lt;strong&gt;selección de los mejores kits que puedes comprar para disfrutar de una tarde llena de misterios, enigmas y diversión&lt;/strong&gt;, ¡ideal para jugar en familia o con amigos!&lt;/p&gt;</description>
+      <description>Review sobre los mejores kits para jugar escape rooms en casa</description>
     </item>
   </channel>
 </rss>

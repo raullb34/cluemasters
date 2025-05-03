@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on ClueMasters</title>
+    <title>Categories on ClueMasters | Blog de Escape Rooms y Juegos de Mesa</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on ClueMasters</description>
+    <description>Recent content in Categories on ClueMasters | Blog de Escape Rooms y Juegos de Mesa</description>
     <generator>Hugo -- 0.147.1</generator>
-    <language>es-es</language>
+    <language>es</language>
     <lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,6 +13,13 @@
       <link>http://localhost:1313/categories/comparativas/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/comparativas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reseñas</title>
+      <link>http://localhost:1313/categories/rese%C3%B1as/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/rese%C3%B1as/</guid>
       <description></description>
     </item>
   </channel>
