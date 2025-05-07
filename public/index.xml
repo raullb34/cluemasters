@@ -15,5 +15,65 @@
       <guid>http://localhost:1313/posts/top-6-kits-de-escape-room-para-montar-en-casa-en-2025/</guid>
       <description>Review sobre los mejores kits para jugar escape rooms en casa</description>
     </item>
+    <item>
+      <title>Contacto</title>
+      <link>http://localhost:1313/contacto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contacto/</guid>
+      <description>&lt;h2 id=&#34;escríbenos&#34;&gt;Escríbenos&lt;/h2&gt;
+&lt;p&gt;¿Tienes dudas, propuestas o quieres colaborar con ClueMasters?&lt;br&gt;
+Puedes escribirnos fácilmente con este formulario:&lt;/p&gt;
+&lt;form action=&#34;https://formsubmit.co/raulapps34@gmail.com&#34; method=&#34;POST&#34;&gt;
+    &lt;label for=&#34;name&#34;&gt;Nombre:&lt;/label&gt;&lt;br&gt;
+    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required style=&#34;width: 100%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;&#34;&gt;&lt;br&gt;&lt;br&gt;
+  
+    &lt;label for=&#34;email&#34;&gt;Correo electrónico:&lt;/label&gt;&lt;br&gt;
+    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required style=&#34;width: 100%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;&#34;&gt;&lt;br&gt;&lt;br&gt;
+  
+    &lt;label for=&#34;message&#34;&gt;Mensaje:&lt;/label&gt;&lt;br&gt;
+    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;6&#34; required style=&#34;width: 100%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;&#34;&gt;&lt;/textarea&gt;&lt;br&gt;&lt;br&gt;
+  
+    &lt;button type=&#34;submit&#34; style=&#34;width: 100%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;&#34;&gt;Enviar&lt;/button&gt;
+&lt;/form&gt;
+  
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Este formulario está gestionado por &lt;a href=&#34;https://formsubmit.co&#34;&gt;Formsubmit.co&lt;/a&gt;. No almacenamos tus datos en el sitio.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Política de privacidad</title>
+      <link>http://localhost:1313/politica-de-privacidad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/politica-de-privacidad/</guid>
+      <description>&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
+&lt;p&gt;En &lt;strong&gt;ClueMasters.es&lt;/strong&gt; valoramos tu privacidad. Esta política explica cómo recopilamos, usamos y protegemos tu información cuando visitas este sitio web.&lt;/p&gt;
+&lt;h2 id=&#34;responsable-del-tratamiento&#34;&gt;Responsable del tratamiento&lt;/h2&gt;
+&lt;p&gt;Titular del sitio: ClueMasters&lt;br&gt;
+Correo de contacto: ver página &lt;a href=&#34;http://localhost:1313/contacto/&#34;&gt;Contacto&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;datos-que-recopilamos&#34;&gt;Datos que recopilamos&lt;/h2&gt;
+&lt;p&gt;Este sitio puede recopilar datos de navegación mediante cookies, herramientas de analítica web (como Google Analytics) y enlaces de afiliado. No solicitamos ni almacenamos datos personales sensibles.&lt;/p&gt;
+&lt;h2 id=&#34;cookies&#34;&gt;Cookies&lt;/h2&gt;
+&lt;p&gt;Este sitio utiliza cookies propias y de terceros para mejorar tu experiencia de usuario. Puedes aceptar, rechazar o configurar su uso al entrar por primera vez mediante el banner de consentimiento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quiénes somos</title>
+      <link>http://localhost:1313/quienes-somos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/quienes-somos/</guid>
+      <description>&lt;h2 id=&#34;sobre-cluemasters&#34;&gt;Sobre ClueMasters&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ClueMasters&lt;/strong&gt; es un blog independiente especializado en reseñas de escape rooms, juegos de mesa y aventuras caseras. Publicamos comparativas, guías prácticas y artículos sobre experiencias lúdicas, tanto físicas como digitales, con el objetivo de ayudar a otros jugadores, familias y game masters a descubrir nuevas formas de jugar.&lt;/p&gt;
+&lt;p&gt;El blog está gestionado por un creador independiente y autofinanciado. Algunos enlaces pueden ser de afiliación, lo que significa que ganamos una pequeña comisión si realizas una compra a través de ellos, sin coste adicional para ti.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Términos y condiciones</title>
+      <link>http://localhost:1313/terminos-y-condiciones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/terminos-y-condiciones/</guid>
+      <description>&lt;h2 id=&#34;objeto&#34;&gt;Objeto&lt;/h2&gt;
+&lt;p&gt;Los presentes términos regulan el uso del sitio web &lt;strong&gt;cluemasters.es&lt;/strong&gt;, propiedad del autor de este blog.&lt;/p&gt;
+&lt;h2 id=&#34;uso-del-sitio&#34;&gt;Uso del sitio&lt;/h2&gt;
+&lt;p&gt;El contenido publicado en ClueMasters tiene fines informativos y de entretenimiento. No nos responsabilizamos del mal uso que los usuarios puedan hacer de la información.&lt;/p&gt;
+&lt;h2 id=&#34;propiedad-intelectual&#34;&gt;Propiedad intelectual&lt;/h2&gt;
+&lt;p&gt;Todos los textos, imágenes y recursos son propiedad del autor o se utilizan con licencia libre. Está prohibida su reproducción sin permiso expreso, salvo los enlaces que se compartan de forma natural en redes sociales u otras webs.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

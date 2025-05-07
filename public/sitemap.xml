@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-04T16:07:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/escape-room-en-casa-por-menos-de-20-euros/</loc>
+    <lastmod>2025-05-04T16:07:46+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-05-04T16:07:46+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/top-6-kits-de-escape-room-para-montar-en-casa-en-2025/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/comparativas/</loc>
@@ -23,9 +29,6 @@
     <loc>http://localhost:1313/tags/kits/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/rese%C3%B1as/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -34,5 +37,13 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contacto/</loc>
+  </url><url>
+    <loc>http://localhost:1313/politica-de-privacidad/</loc>
+  </url><url>
+    <loc>http://localhost:1313/quienes-somos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/terminos-y-condiciones/</loc>
   </url>
 </urlset>
