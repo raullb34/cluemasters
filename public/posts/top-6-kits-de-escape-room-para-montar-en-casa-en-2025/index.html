@@ -322,13 +322,6 @@ Unlock! Mystery Adventures es una de las opciones más populares para quienes bu
       <li><a href="http://localhost:1313/tags/juegos-de-mesa/">Juegos De Mesa</a></li>
       <li><a href="http://localhost:1313/tags/review/">Review</a></li>
     </ul>
-<nav class="paginav">
-  <a class="prev" href="http://localhost:1313/posts/escape-room-en-casa-por-menos-de-20-euros/">
-    <span class="title">« Prev</span>
-    <br>
-    <span>Escape Room en Casa Por Menos De 20 Euros</span>
-  </a>
-</nav>
 
 
 <ul class="share-buttons">
@@ -401,76 +394,18 @@ Unlock! Mystery Adventures es una de las opciones más populares para quienes bu
   </footer>
 </article>
     </main>
-    
-<footer class="footer">
-        <span>&copy; 2025 <a href="http://localhost:1313/">ClueMasters | Blog de Escape Rooms y Juegos de Mesa</a></span> · 
-
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span>
-</footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
-</a>
-
-<script>
-    let menu = document.getElementById('menu')
-    if (menu) {
-        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
-        menu.onscroll = function () {
-            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
-    }
-
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener("click", function (e) {
-            e.preventDefault();
-            var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-                    behavior: "smooth"
-                });
-            } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
-            if (id === "top") {
-                history.replaceState(null, null, " ");
-            } else {
-                history.pushState(null, null, `#${id}`);
-            }
-        });
-    });
-
-</script>
-<script>
-    var mybutton = document.getElementById("top-link");
-    window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
-        } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
-        }
-    };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
-
-</script>
-</body>
+    <footer style="margin-top: 3rem; padding: 1.5rem 0; font-size: 0.9rem; text-align: center; color: #888;">
+    <hr style="margin-bottom: 1rem;">
+  
+    <p>&copy; 2025 ClueMasters — Todos los derechos reservados</p>
+  
+    <p>
+      <a href="/quienes-somos/">Quiénes somos</a> |
+      <a href="/politica-de-privacidad/">Política de privacidad</a> |
+      <a href="/terminos-y-condiciones/">Términos y condiciones</a> |
+      <a href="/contacto/">Contacto</a>
+    </p>
+  </footer>
+  </body>
 
 </html>

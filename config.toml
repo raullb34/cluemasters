@@ -15,6 +15,7 @@ enableRobotsTXT = true
   ShowPostNavLinks = true
   showtoc = true
   tocopen = true
+  disableThemeToggle = false
 
 [menu]
   [[menu.main]]
@@ -26,7 +27,7 @@ enableRobotsTXT = true
     name = "Artículos"
     url = "/posts/"
     weight = 2
-    
+
   [[menu.main]]
     name = "Quiénes somos"
     url = "/quienes-somos/"
