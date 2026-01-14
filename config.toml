@@ -47,3 +47,8 @@ enableRobotsTXT = true
     name = "Contacto"
     url = "/contacto/"
     weight = 6
+
+  [[menu.main]]
+    name = "Tienda"
+    url = "https://www.etsy.com/shop/ClueMasters"
+    weight = 7
