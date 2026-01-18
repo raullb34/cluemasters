@@ -24,7 +24,7 @@ Para que tu juego no sea monótono, aquí tienes un resumen de los mejores tipos
 
 Son los más versátiles. No necesitas llaves (que los jugadores suelen perder) y son fáciles de configurar.
 
-<img src="/images/candados/numerico.jpg" alt="Candado numérico clásico" style="max-width: 300px; margin: 1rem 0;">
+![Candado numérico clásico](/images/candados/numerico.jpg)
 
 * **Para qué usarlos:** Para códigos finales de 3 o 4 dígitos que los jugadores encuentren en notas, sumas o contando objetos.
 * **[Ver en Amazon →](https://amzn.to/4bFesJb)** Es robusto, tiene un giro suave y no se atasca fácilmente, lo que evita frustraciones innecesarias.
@@ -35,7 +35,7 @@ Son los más versátiles. No necesitas llaves (que los jugadores suelen perder) 
 
 En lugar de números, estos candados utilizan letras. Son perfectos para integrar la narrativa en el puzzle.
 
-<img src="/images/candados/letras.jpg" alt="Candado de letras" style="max-width: 300px; margin: 1rem 0;">
+![Candado de letras](/images/candados/letras.jpg)
 
 * **Para qué usarlos:** Si la respuesta a un acertijo es una palabra (ej. el nombre de un personaje o una contraseña oculta en un libro).
 * **[Ver en Amazon →](https://amzn.to/4jJ6D7c)** Te permite personalizar la palabra. **Ojo:** comprueba siempre qué letras permite cada anillo antes de diseñar el puzzle.
@@ -46,7 +46,7 @@ En lugar de números, estos candados utilizan letras. Son perfectos para integra
 
 Este candado no tiene ruedas. Se abre moviendo el mando central hacia arriba, abajo, izquierda o derecha.
 
-<img src="/images/candados/direccional.jpg" alt="Candado direccional Speed Dial" style="max-width: 300px; margin: 1rem 0;">
+![Candado direccional Speed Dial](/images/candados/direccional.jpg)
 
 * **Para qué usarlos:** Ideal para acertijos visuales. Por ejemplo, flechas escondidas en un cuadro, el orden de los ojos de unos retratos o una ruta en un mapa.
 * **[Ver en Amazon →](https://amzn.to/4qCRU0n)** Es un éxito asegurado, aunque recuerda avisar a tus jugadores que deben "resetearlo" pulsando el arco dos veces antes de empezar.
@@ -57,7 +57,7 @@ Este candado no tiene ruedas. Se abre moviendo el mando central hacia arriba, ab
 
 Tienen un aspecto retro y funcionan presionando botones numéricos.
 
-<img src="/images/candados/boton.jpg" alt="Candado de Botones" style="max-width: 300px; margin: 1rem 0;">
+![Candado de Botones](/images/candados/boton.jpg)
 
 * **Para qué usarlos:** A diferencia de otros, aquí no suele importar el orden, sino qué números pulsas. Úsalo si el puzzle da como resultado un "grupo" de números (ej. "las fechas marcadas en el calendario").
 * **[Ver en Amazon →](https://amzn.to/3ZkSKTo)** Son muy intuitivos para niños y adultos.
@@ -68,7 +68,7 @@ Tienen un aspecto retro y funcionan presionando botones numéricos.
 
 Inspirado en el Código Da Vinci, es un cilindro metálico que guarda un compartimento secreto en su interior.
 
-<img src="/images/candados/cryptex.jpg" alt="Cryptex estilo Da Vinci" style="max-width: 300px; margin: 1rem 0;">
+![Cryptex estilo Da Vinci](/images/candados/cryptex.jpg)
 
 * **Para qué usarlos:** Como gran final. Al ser pesado y metálico, da una sensación de "tesoro real" que un candado normal no consigue.
 * **[Ver en Amazon →](https://amzn.to/3LwWk9T)** Suele venir con una presentación excelente para regalos o pistas finales importantes.
@@ -79,7 +79,7 @@ Inspirado en el Código Da Vinci, es un cilindro metálico que guarda un compart
 
 ¿Quieres que un cajón se abra "solo" cuando los jugadores pasan un objeto por encima? Esto es lo que necesitas.
 
-<img src="/images/candados/rfid.jpg" alt="Cerradura magnética invisible" style="max-width: 300px; margin: 1rem 0;">
+![Cerradura magnética invisible](/images/candados/rfid.jpg)
 
 * **Para qué usarlos:** Para efectos especiales sin electrónica compleja. Escondes el imán dentro de un objeto decorativo (como una figura) y, al acercarlo al lugar correcto del mueble, este se desbloquea.
 * **[Ver en Amazon →](https://amzn.to/4r1UZHb)** Son económicos, se pegan con adhesivo y hacen que tu Escape Room parezca mágico.
