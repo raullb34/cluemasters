@@ -1,7 +1,7 @@
 ---
 title: "Guía de Candados para tu Escape Room Casero: ¿Cuál elegir según el acertijo?"
 description: "Descubre los mejores tipos de candados para elevar tu escape room en casa. Guía de hardware desde modelos clásicos hasta cierres magnéticos invisibles."
-date: 2026-01-19
+date: 2026-01-18
 draft: false
 tags: ["escape room", "candados", "puzzles", "hardware", "casero"]
 categories: ["Diseño de Puzzles", "Materiales"]
