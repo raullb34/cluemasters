@@ -4,8 +4,9 @@ description: "Guía completa sobre psicología y diseño de escape rooms caseros
 date: 2026-01-14
 draft: false
 tags: ["escape room", "kits", "psicologia", "imprimible", "casero"]
-categories: ["Psicología", ""]
+categories: ["Psicología"]
 author: "ClueMasters"
+slug: "el-arte-de-que-tus-jugadores-se-sientan-genios"
 showToc: true
 tocOpen: true
 cover:

@@ -4,6 +4,22 @@ title = "ClueMasters | Blog de Escape Rooms y Juegos de Mesa"
 theme = "PaperMod"
 uglyURLs = false
 enableRobotsTXT = true
+canonifyURLs = true
+
+[outputs]
+  home = ["HTML", "RSS", "SITEMAP"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+  page = ["HTML"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.7
+  filename = "sitemap.xml"
+
+[permalinks]
+  posts = "/posts/:slug/"
 
 [params]
   description = "Reseñas y comparativas de juegos de mesa y escape rooms, artículos para juagadores, makers y game maasters"
@@ -16,6 +32,7 @@ enableRobotsTXT = true
   showtoc = true
   tocopen = true
   disableThemeToggle = false
+  env = "production"
 
 [menu]
   [[menu.main]]

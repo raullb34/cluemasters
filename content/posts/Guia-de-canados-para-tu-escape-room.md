@@ -6,6 +6,7 @@ draft: false
 tags: ["escape room", "candados", "puzzles", "hardware", "casero"]
 categories: ["Diseño de Puzzles", "Materiales"]
 author: "ClueMasters"
+slug: "guia-de-candados-para-tu-escape-room"
 showToc: true
 tocOpen: true
 cover:
