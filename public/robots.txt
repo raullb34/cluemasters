@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://cluemasters.es/sitemap.xml
+Sitemap: https://www.cluemasters.es/sitemap.xml

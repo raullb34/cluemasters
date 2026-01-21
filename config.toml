@@ -1,4 +1,4 @@
-baseURL = "http://cluemasters.es/"
+baseURL = "https://www.cluemasters.es/"
 languageCode = "es"
 title = "ClueMasters | Blog de Escape Rooms y Juegos de Mesa"
 theme = "PaperMod"
