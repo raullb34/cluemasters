@@ -6,13 +6,6 @@ uglyURLs = false
 enableRobotsTXT = true
 canonifyURLs = true
 
-[outputs]
-  home = ["HTML", "RSS", "SITEMAP"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-  term = ["HTML", "RSS"]
-  page = ["HTML"]
-
 [sitemap]
   changefreq = "weekly"
   priority = 0.7
