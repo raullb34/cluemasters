@@ -1,7 +1,8 @@
 ---
-title: "Guía de Candados para tu Escape Room Casero: ¿Cuál elegir según el acertijo?"
-description: "Descubre los mejores tipos de candados para elevar tu escape room en casa. Guía de hardware desde modelos clásicos hasta cierres magnéticos invisibles."
+title: "Tipos de Candados para Escape Room: Cuál Elegir Según el Acertijo [Guía 2026]"
+description: "Los 6 tipos de candados para escape room (numérico, letras, direccional, botones, cryptex y magnético), para qué acertijo sirve cada uno y cómo cambiarles el código."
 date: 2026-01-18
+lastmod: 2026-11-08
 draft: false
 tags: ["escape room", "candados", "puzzles", "hardware", "casero"]
 categories: ["Diseño de Puzzles", "Materiales"]
@@ -17,7 +18,22 @@ cover:
 
 Si estás diseñando un Escape Room en casa, pronto te darás cuenta de que el **candado es el protagonista**. Es el momento "eureka" donde el jugador introduce un código y siente el *click* de la victoria. Pero no todos los candados sirven para lo mismo.
 
-Para que tu juego no sea monótono, aquí tienes un resumen de los mejores tipos de apertura y los modelos que puedes encontrar fácilmente en Amazon para elevar el nivel de tu creación.
+Para que tu juego no sea monótono, aquí tienes los **6 tipos de candados para escape room** que más se usan, qué acertijo encaja con cada uno y los modelos que puedes encontrar fácilmente en Amazon.
+
+## Cómo elegir el candado según el acertijo
+
+La regla es sencilla: **el candado debe pedir el mismo tipo de respuesta que da el acertijo**.
+
+| Si la respuesta del acertijo es… | Usa un candado… |
+| :--- | :--- |
+| Un número (suma, fecha, objetos contados) | Numérico de 3 o 4 cifras |
+| Una palabra (nombre, contraseña) | De letras |
+| Una ruta o una secuencia de flechas | Direccional |
+| Un grupo de números sin orden | De botones |
+| El gran final de la partida | Cryptex |
+| Un objeto que hay que «acercar» a un sitio | Cerradura magnética |
+
+Si tu juego tiene varios candados, **no repitas el mismo tipo seguido**. Alternar números, letras y flechas hace que cada apertura se sienta distinta.
 
 ---
 
@@ -97,3 +113,28 @@ Inspirado en el Código Da Vinci, es un cilindro metálico que guarda un compart
 | **Botones** | Pulsadores para grupos de números. | [**Push Button**](https://amzn.to/3ZkSKTo) |
 | **Narrativa** | Esconder objetos más grandes. | [**Cryptex**](https://amzn.to/3LwWk9T) |
 | **Invisible** | Cajones secretos o premio final tecnológico. | [**Cerradura RFID**](https://amzn.to/4r1UZHb) |
+
+---
+
+## Preguntas frecuentes sobre candados para escape room
+
+### ¿Cuántos candados necesito para un escape room casero?
+
+Para una partida de una hora bastan **2 o 3 candados**. Si solo tienes uno, úsalo para el final y haz que cada prueba anterior dé una cifra del código, como en nuestro [escape room en casa por menos de 20 €](/posts/escape-room-en-casa-por-menos-de-20-euros/).
+
+### ¿Cómo se cambia el código de un candado numérico?
+
+Depende del modelo, pero casi todos siguen uno de estos dos sistemas:
+
+- **Con el arco abierto:** abre el candado con el código actual, gira el arco 90° o empújalo hacia abajo, pon el código nuevo y vuelve a girarlo a su posición.
+- **Con una palanca o botón lateral:** con el candado abierto, mueve la palanca, pon el código nuevo y devuelve la palanca a su sitio.
+
+Comprueba siempre el código nuevo **dos veces con el candado abierto** antes de cerrarlo con las pistas dentro.
+
+### ¿Qué candado es mejor para niños?
+
+El **de botones** y el **numérico de 3 cifras**. Son fáciles de manejar y el niño entiende enseguida qué tiene que hacer. El direccional les encanta, pero conviene que un adulto les enseñe antes cómo se resetea.
+
+### ¿Y si no quiero comprar candados?
+
+Puedes sustituirlos por **cajas con código impreso**: el jugador escribe la respuesta en un sobre y el Game Master le da la siguiente pista si es correcta. Pierde algo del «click» físico, pero funciona para una primera partida.
