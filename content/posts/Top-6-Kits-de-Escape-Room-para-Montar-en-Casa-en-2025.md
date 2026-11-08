@@ -58,7 +58,7 @@ Unlock! Mystery Adventures es una de las opciones más populares para quienes bu
  - 🗣️ “Súper entretenido. Con la app se hace más inmersivo y la música acompaña genial.”
  - 🗣️ “Perfecto para los fans de los escape rooms. Lo recomiendo y pienso comprar más de esta colección.”
 
-👉 [Ver precio y más detalles aquí](https://amzn.to/42EfjVI)
+👉 [Ver precio y más detalles aquí](https://www.amazon.es/dp/B077RM4CV3?tag=cluemasters05-21)
 
 ---
 
@@ -80,7 +80,7 @@ Los escape rooms para niños se han vuelto una opción muy popular para pasar ta
 - 🗣️ “El juego es divertido y puedes jugar desde los 9 años. Lástima que solo se pueda jugar una vez.”
 - 🗣️ “Competir y reír con la familia es mejor que ver a los niños con una tablet.”
 
-👉 [Descúbrelo en Amazon aquí](https://amzn.to/4k57SwI)
+👉 [Descúbrelo en Amazon aquí](https://www.amazon.es/dp/B0C8149T64?tag=cluemasters05-21)
 
 ---
 
@@ -103,7 +103,7 @@ Exit: La Cabaña Abandonada es uno de los juegos más populares de la serie Exit
 - 🗣️ “Solo se puede jugar una vez, pero es tan bueno que merece la pena.”
 - 🗣️ “Nos enganchamos tanto que lo terminamos en una sola sesión de más de dos horas. Ya hemos comprado otros de la serie.”
 
-👉 [Consíguelo aquí](https://amzn.to/4jEkLy3)
+👉 [Consíguelo aquí](https://www.amazon.es/dp/B074H77NCM?tag=cluemasters05-21)
 
 ---
 

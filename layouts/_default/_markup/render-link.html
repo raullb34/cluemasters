@@ -1,0 +1,6 @@
+{{- /* Enlaces de Amazon: se marcan como patrocinados y se abren en otra pestaña */ -}}
+{{- $amazon := or (strings.Contains .Destination "amazon.es") (strings.Contains .Destination "amzn.to") -}}
+<a href="{{ .Destination | safeURL }}"
+  {{- with .Title }} title="{{ . }}"{{ end }}
+  {{- if $amazon }} rel="sponsored nofollow noopener" target="_blank"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- /* sin salto de línea al final */ -}}

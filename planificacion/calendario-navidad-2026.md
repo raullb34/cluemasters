@@ -4,7 +4,7 @@ Ritmo: **2 artículos por semana, martes y viernes**. Cada artículo lleva algo 
 
 Cómo se gana dinero con cada uno:
 - **Libro**: lleva a un libro de Little Crayon Studio (unos 3 € por venta).
-- **Afiliado**: enlaces de Amazon Afiliados (`cluemasters-21`).
+- **Afiliado**: enlaces de Amazon Afiliados (`cluemasters05-21`).
 
 Las palabras clave son una primera apuesta. Cuando Search Console tenga datos nuevos (2–3 semanas), se ajustan a lo que de verdad busca la gente.
 
@@ -26,7 +26,7 @@ Las palabras clave son una primera apuesta. Cuando Search Console tenga datos nu
 
 ## Tareas sueltas
 - [ ] Cuando *El Misterio de la Navidad Robada* esté en Amazon: cambiar en `escape-room-navideno-para-ninos.md` la frase «Lo enlazaremos aquí en cuanto esté disponible en Amazon» por el enlace al libro.
-- [ ] Comprobar en afiliados.amazon.es si la cuenta `cluemasters-21` sigue activa (lo tiene que hacer Raúl).
+- [x] Cuenta de afiliados reabierta: etiqueta `cluemasters05-21` (8 nov). Usar enlaces https://www.amazon.es/dp/ASIN?tag=cluemasters05-21, no amzn.to.
 - [ ] Pasar la renovación del dominio a automática en DonDominio.
 - [ ] Subir a Pinterest los imprimibles de cada juego (enlazando al artículo).
 - [ ] Revisar Search Console a principios de diciembre y reordenar este calendario.
