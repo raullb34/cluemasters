@@ -1,0 +1,26 @@
+{{- /* Página de enlaces para la bio de Instagram: botones grandes, uno debajo de otro */ -}}
+<div class="enlaces">
+  <img class="enlaces-avatar" src="/images/pia-avatar.jpg" alt="La Inspectora Pía" width="140" height="140">
+  <p class="enlaces-intro">{{ .Page.Params.intro }}</p>
+  {{- range .Page.Params.botones }}
+  {{- $externo := or (strings.Contains .url "amazon.") (strings.HasPrefix .url "http") }}
+  <a class="enlaces-boton{{ if .destacado }} destacado{{ end }}" href="{{ .url | safeURL }}"
+     {{- if $externo }} target="_blank" rel="{{ if strings.Contains .url "amazon." }}sponsored nofollow {{ end }}noopener"{{ end }}>
+    <span class="enlaces-titulo">{{ .titulo }}</span>
+    {{- with .detalle }}<span class="enlaces-detalle">{{ . }}</span>{{ end }}
+  </a>
+  {{- end }}
+  <p class="enlaces-aviso">Como Afiliado de Amazon, ClueMasters obtiene ingresos por las compras adscritas que cumplen los requisitos aplicables.</p>
+</div>
+<style>
+  .enlaces { max-width: 520px; margin: 0 auto; text-align: center; }
+  .enlaces-avatar { width: 140px !important; height: 140px !important; border-radius: 50% !important; margin: 0 auto 12px !important; display: block; }
+  .enlaces-intro { font-size: 1.05rem; margin-bottom: 22px; }
+  .enlaces-boton { display: block; margin: 0 0 14px; padding: 16px 18px; border-radius: 16px; text-decoration: none !important;
+    border: 2px solid var(--border); background: var(--entry); color: var(--primary); box-shadow: none !important; }
+  .enlaces-boton:hover { border-color: #c62828; }
+  .enlaces-boton.destacado { background: #c62828; border-color: #c62828; color: #fff; }
+  .enlaces-titulo { display: block; font-weight: 700; font-size: 1.05rem; }
+  .enlaces-detalle { display: block; font-size: 0.85rem; opacity: 0.85; margin-top: 4px; }
+  .enlaces-aviso { font-size: 0.75rem; opacity: 0.7; margin-top: 24px; }
+</style>

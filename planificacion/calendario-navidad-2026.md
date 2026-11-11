@@ -13,7 +13,7 @@ Las palabras clave son una primera apuesta. Cuando Search Console tenga datos nu
 | dom 8 nov | Cómo montar un escape room en casa por menos de 20 € | escape room en casa | Afiliado (candado) | ✅ Publicado |
 | dom 8 nov | Escape room navideño para niños en casa (juego gratis) | escape room navidad (pico 7–21 dic) | Libro: Navidad Robada | ✅ Publicado, falta enlace al libro |
 | mar 10 nov | Calendario de Adviento casero para niños: 24 retos de detective | calendario de adviento casero para niños (+110 %) | Libro: Navidad Robada + afiliado | ✅ Escrito el 8 nov (pico 23–30 nov) |
-| vie 13 nov | Los mejores calendarios de Adviento de juegos y misterio 2026 | exit el juego calendario de adviento; calendario de adviento niños 8/10 años | Afiliado (Exit, puzles) + Navidad Robada | Pendiente |
+| vie 13 nov | Los mejores calendarios de Adviento de juegos y misterio 2026 | exit el juego calendario de adviento; calendario de adviento niños 8/10 años | Afiliado (Exit, puzles) + Navidad Robada + Laboratorio | ✅ Escrito el 11 nov |
 | mar 17 nov | Juegos de mesa de escape room y misterio para regalar en Navidad | mejor juego escape room de mesa; juegos de mesa para pedir para navidad | Afiliado (Exit, Unlock, Cluedo Junior…) | Pendiente (pico 21 dic, publicar pronto) |
 | vie 20 nov | Escape room para niños de 8 a 10 años (gratis para imprimir) | escape room niños 8/9/10 años; pdf gratis | Libros + afiliado (candados) | Pendiente (búsqueda de todo el año) |
 | mar 24 nov | 10 pruebas imprimibles que siempre funcionan | escape room para imprimir; descargable gratis | Afiliado + libros | Borrador en Drive |
