@@ -1,8 +1,8 @@
 ---
-title: "Calendario de Adviento Casero para Niños: 24 Retos de Detective Gratis para Imprimir"
-description: "Haz un calendario de Adviento casero para niños de 6 a 10 años: 24 tarjetas de retos de detective para imprimir gratis, ideas para montarlo y soluciones con mensaje secreto final."
+title: "Calendario de Adviento Casero para Niños: 24 Retos para Imprimir (PDF)"
+description: "Calendario de Adviento casero para niños de 6 a 10 años: 24 retos de detective gratis en PDF, ideas para montarlo y soluciones con mensaje final."
 date: 2026-11-08
-lastmod: 2026-11-08
+lastmod: 2026-11-20
 draft: false
 tags: ["navidad", "niños", "imprimible", "calendario de adviento", "casero"]
 categories: ["Diseño de Puzzles"]
@@ -19,6 +19,9 @@ cover:
 Un **calendario de Adviento casero** no tiene por qué ser 24 chocolatinas. En este artículo tienes **24 retos de detective para imprimir gratis**: adivinanzas, códigos secretos, tinta invisible y pequeñas misiones. Cada día los niños resuelven uno y consiguen **una letra secreta**. El 23 de diciembre juntan todas las letras y descubren un mensaje final.
 
 Está pensado para niños de **6 a 10 años**, y cada reto lleva entre 5 y 15 minutos.
+
+> 📥 **[Descarga el juego completo en PDF](/pdf/calendario-adviento-retos-detective.pdf)** (5 páginas: instrucciones, las 24 tarjetas y las soluciones con las letras secretas). Gratis para uso personal y en el aula.
+
 
 | Ficha | |
 | :--- | :--- |

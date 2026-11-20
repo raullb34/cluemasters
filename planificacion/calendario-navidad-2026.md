@@ -16,12 +16,12 @@ Las palabras clave son una primera apuesta. Cuando Search Console tenga datos nu
 | vie 13 nov | Los mejores calendarios de Adviento de juegos y misterio 2026 | exit el juego calendario de adviento; calendario de adviento niños 8/10 años | Afiliado (Exit, puzles) + Navidad Robada + Laboratorio | ✅ Escrito el 11 nov |
 | mar 17 nov | Juegos de mesa de escape room y misterio para regalar en Navidad | mejor juego escape room de mesa; juegos de mesa para pedir para navidad | Afiliado (Exit, Unlock, Cluedo Junior…) | ✅ Escrito el 20 nov (con retraso) |
 | vie 20 nov | Escape room para niños de 8 a 10 años (gratis para imprimir) | escape room niños 8/9/10 años; pdf gratis | Libros + afiliado (candados) | ✅ Escrito el 20 nov |
-| mar 24 nov | 10 pruebas imprimibles que siempre funcionan | escape room para imprimir; descargable gratis | Afiliado + libros | Borrador en Drive |
-| vie 27 nov | Experimentos de Navidad para niños | experimentos navidad niños | Libro: ciencia | Esperar a que el libro esté en venta |
-| mar 1 dic | Escape room de Navidad para clase (para profesores) | escape room genially navidad | Libros | Pendiente (público nuevo: profesores) |
-| vie 4 dic | Juegos de pistas para encontrar los regalos | juegos de pistas para encontrar regalos | Libros + afiliado | Pendiente (Navidad y Reyes) |
-| mar 8 dic | Escape room en casa para adultos y parejas | escape room para 2 / parejas / adultos | Afiliado (Exit, Unlock para 2) | Pendiente |
-| vie 11 dic | Dibujos de Navidad para colorear gratis | dibujos navidad colorear niños | Libros: Navidad + Invierno Mágico | Pendiente |
+| mar 24 nov | Dibujos de Navidad para colorear gratis (PDF para imprimir, fáciles, para niños) | dibujos navidad para colorear (la más fuerte y subiendo: 43 → 95); variantes «pdf», «para niños», «fáciles», «imprimir gratis» | Libros: Navidad + Invierno Mágico | **Adelantado** (antes 11 dic). PDF gratis con láminas de muestra de los libros |
+| vie 27 nov | Adivinanzas de Navidad para niños con respuesta (cortas, para imprimir) | adivinanzas de navidad para niños / con respuesta / cortas / para imprimir | Libros + juegos gratis del blog | Nuevo |
+| mar 1 dic | Experimentos para hacer en casa con niños (por edades, con especial de Navidad) | experimentos para niños para hacer en casa / por edades; «juego de experimentos para niños» +200 % | Libro: El Laboratorio de Navidad + afiliado (kits de ciencia) | Antes «Experimentos de Navidad» («experimentos navidad» casi no se busca) |
+| vie 4 dic | Juegos para Navidad en familia (con regalos) | juegos para navidad en familia con regalos (subida puntual); juegos de pistas para encontrar regalos | Afiliado + juegos gratis | Une dos ideas anteriores |
+| mar 8 dic | 10 pruebas imprimibles que siempre funcionan | escape room para imprimir; descargable gratis | Afiliado + libros | Borrador en Drive |
+| vie 11 dic | Escape room de Navidad para clase (para profesores) | escape room genially navidad; actividades de navidad para niños de primaria | Libros | Pendiente |
 | mar 15 dic | Escape room de Reyes Magos para niños | escape room reyes magos | Libro + afiliado | Pendiente |
 
 Fuente de las búsquedas: [tendencias-2026-11.md](tendencias-2026-11.md).

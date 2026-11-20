@@ -1,8 +1,8 @@
 ---
-title: "Escape Room Navideño para Niños en Casa: Juego Gratis para Imprimir (6 a 10 años)"
-description: "Escape room de Navidad gratis para niños de 6 a 10 años: «¿Quién se ha comido las galletas de Papá Noel?». Cuatro pruebas imprimibles, sospechosos y final sorpresa para Nochebuena."
+title: "Escape Room de Navidad para Niños: Juego Gratis para Imprimir (PDF)"
+description: "Escape room de Navidad para niños de 6 a 10 años, gratis en PDF: ¿quién se comió las galletas de Papá Noel? 4 pruebas para imprimir, sospechosos y soluciones."
 date: 2026-11-08
-lastmod: 2026-11-08
+lastmod: 2026-11-20
 draft: false
 tags: ["escape room", "navidad", "niños", "imprimible", "casero"]
 categories: ["Diseño de Puzzles"]
@@ -19,6 +19,9 @@ cover:
 Nochebuena. Los niños dejaron un plato de galletas para Papá Noel antes de irse a la cama… y por la mañana **el plato está vacío**. ¿Quién se las ha comido?
 
 Este **escape room navideño para niños** se monta en media hora con unos folios, un calcetín y una caja con candado. Funciona tanto la mañana de Navidad como en cualquier tarde de vacaciones. Todo lo que hay que imprimir está en este artículo, gratis.
+
+> 📥 **[Descarga el juego completo en PDF](/pdf/escape-room-navidad-ninos.pdf)** (8 páginas: instrucciones, todas las pruebas, tarjetas de pistas, carta de Papá Noel y soluciones). Gratis para uso personal y en el aula.
+
 
 | Ficha del juego | |
 | :--- | :--- |

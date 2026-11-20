@@ -96,7 +96,7 @@ def sopa(words, message, n=8, seed=7):
     body.append(t(lx, 100, "BUSCA:", 22, "bold", BLUE, "start"))
     for i, w in enumerate(words):
         body.append(t(lx, 140 + i * 36, f"□ {w}", 22, "normal", INK, "start"))
-    body.append(t(W / 2, 70 + n * S + 40, "Después, lee en orden las letras que sobran (las ★ no cuentan).", 19, "bold"))
+    body.append(t(W / 2, 70 + n * S + 40, "Después, lee en orden las letras que sobran: esconden un mensaje.", 19, "bold"))
     return svg(W, H, "".join(body)), len(free)
 
 

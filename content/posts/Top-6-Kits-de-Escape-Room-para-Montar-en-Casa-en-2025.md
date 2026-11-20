@@ -1,8 +1,8 @@
 ---
 title: "🎲 Top 6 Kits de Escape Room para Jugar en Casa [2026]"
-description: "Los mejores kits de escape room para jugar en casa en 2026: juegos de cartas, para niños, por correo, digitales e imprimibles. Opiniones de compradores, pros y contras."
+description: "Los mejores kits de escape room para jugar en casa en 2026: de cartas, para niños, por correo, digitales e imprimibles. Opiniones, pros y contras."
 date: 2025-05-03
-lastmod: 2026-11-08
+lastmod: 2026-11-20
 slug: "top-6-kits-de-escape-room-para-montar-en-casa-2025"
 draft: false
 tags: ["escape room", "kits", "juegos de mesa", "review"]
@@ -169,3 +169,5 @@ Si después de jugar a estos kits te apetece diseñar el tuyo, empieza por aquí
 - [Escape room en casa por menos de 20 €](/posts/escape-room-en-casa-por-menos-de-20-euros/): un juego completo y gratis para montar en una tarde.
 - [Tipos de candados para escape room](/posts/guia-de-candados-para-tu-escape-room/): cuál elegir según el acertijo.
 - [El arte de que tus jugadores se sientan genios](/posts/el-arte-de-que-tus-jugadores-se-sientan-genios/): cómo dar pistas sin estropear la partida.
+
+¿Buscas más juegos de mesa de misterio para regalar? Mira nuestra guía de [juegos de mesa de escape room y misterio](/posts/juegos-de-mesa-escape-room-y-misterio-para-regalar/), con Sherlock Holmes, MicroMacro, Mysterium y más. Y si es para niños, prueba el [escape room para niños de 8 a 10 años](/posts/escape-room-para-ninos-de-8-a-10-anos/), gratis en PDF.

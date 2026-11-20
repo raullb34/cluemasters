@@ -1,8 +1,8 @@
 ---
 title: "Tipos de Candados para Escape Room: Cuál Elegir Según el Acertijo [Guía 2026]"
-description: "Los 6 tipos de candados para escape room (numérico, letras, direccional, botones, cryptex y magnético), para qué acertijo sirve cada uno y cómo cambiarles el código."
+description: "Los 6 tipos de candados para escape room: numérico, letras, direccional, botones, cryptex y magnético. Cuál usar en cada acertijo y cómo cambiar el código."
 date: 2026-01-18
-lastmod: 2026-11-08
+lastmod: 2026-11-20
 draft: false
 tags: ["escape room", "candados", "puzzles", "hardware", "casero"]
 categories: ["Diseño de Puzzles", "Materiales"]
@@ -138,3 +138,11 @@ El **de botones** y el **numérico de 3 cifras**. Son fáciles de manejar y el n
 ### ¿Y si no quiero comprar candados?
 
 Puedes sustituirlos por **cajas con código impreso**: el jugador escribe la respuesta en un sobre y el Game Master le da la siguiente pista si es correcta. Pierde algo del «click» físico, pero funciona para una primera partida.
+
+---
+
+## Juegos gratis para estrenar tus candados
+
+- [Escape room para niños de 8 a 10 años](/posts/escape-room-para-ninos-de-8-a-10-anos/): un candado de 3 cifras para el final.
+- [Escape room de Navidad para niños](/posts/escape-room-navideno-para-ninos/), con PDF para imprimir.
+- [Escape room en casa para adultos por menos de 20 €](/posts/escape-room-en-casa-por-menos-de-20-euros/).

@@ -43,3 +43,32 @@ Los números son interés relativo entre estas cinco búsquedas: 100 es el pico 
 5. **El libro de Adviento de fútbol tiene demanda.** Merece la pena adelantarlo si se puede.
 
 Ojo: una web que acaba de volver tarda semanas en posicionar. En estas Navidades parte del tráfico tendrá que venir de Pinterest y de compartir los imprimibles.
+
+
+## Actualización 20 nov 2026 (Google Trends, España)
+
+### Último mes (actividades de Navidad)
+- **actividades navidad niños**: la más fuerte del grupo y subiendo (14 → 44). Búsquedas que suben: «actividades para niños en navidad».
+- escape room navidad: aparece desde el 7 nov (8–15).
+- juegos navidad familia: baja, pero sube «juegos para navidad en familia con regalos».
+- **experimentos navidad**: casi cero. Mejor apuntar a «experimentos para niños».
+
+### Últimos 3 meses (temas de Navidad)
+| Búsqueda | 6 nov | 20 nov | Comentario |
+| :--- | :--- | :--- | :--- |
+| **dibujos navidad para colorear** | 43 | **95** | La más fuerte; sube cada día. Suben «para imprimir», «pdf», «imprimir de navidad» |
+| manualidades navidad niños | 33 | 44–67 | Sube; queda fuera del nicho |
+| experimentos para niños | 16 | 14–27 | Estable todo el año. Suben «para hacer en casa con niños», «juego de experimentos para niños» (+200 %), «caseros» (+60 %) |
+| adivinanzas navidad | 0 | 0–5 | Poco volumen, pero hay muchas variantes largas y poca competencia |
+| juegos para navidad en familia | 0 | 0–6 | Poco volumen |
+
+### Nuestra web (Search Console, últimos 28 días)
+- 5 impresiones, 0 clics, posición media 26,8 (tercera página).
+- Consultas: «escape room navidad» (3), «escape room imprimible navidad» (1).
+- Es un dominio que acaba de volver: conviene apuntar a **búsquedas largas** (edad, «pdf», «con respuesta», «para imprimir»), donde compiten menos webs grandes.
+
+### Conclusiones
+1. **Adelantar «Dibujos de Navidad para colorear»** con un PDF gratis de láminas de los libros. Es la búsqueda más grande y lleva directamente a los dos libros para colorear.
+2. **Adivinanzas de Navidad con respuesta**: fácil de escribir, muchas variantes largas y conecta con los juegos del blog.
+3. **Experimentos**: apuntar a «experimentos para hacer en casa con niños» por edades, no a «experimentos navidad».
+4. **Títulos con la variante larga**: edad + «gratis» + «para imprimir/PDF».

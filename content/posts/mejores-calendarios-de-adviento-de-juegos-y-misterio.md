@@ -1,8 +1,8 @@
 ---
 title: "Calendarios de Adviento de Juegos, Escape Room y Misterio 2026: Guía por Edades"
-description: "Los mejores tipos de calendarios de Adviento con juegos: escape room EXIT, puzles, experimentos de ciencia, libros de misterio y opciones caseras gratis. Cuál elegir según la edad."
+description: "Calendarios de Adviento de juegos por edades: escape room EXIT, puzles, experimentos de ciencia, libros de misterio y una opción casera gratis en PDF."
 date: 2026-11-11
-lastmod: 2026-11-11
+lastmod: 2026-11-20
 draft: false
 tags: ["calendario de adviento", "navidad", "niños", "regalos", "escape room"]
 categories: ["Comparativas"]
@@ -116,7 +116,7 @@ No son de misterio, pero son de los más buscados cada año: cada día una mini 
 
 ## ¿Y si lo hacemos en casa? La opción gratis
 
-Si prefieres no comprar nada, en ClueMasters tienes un **[calendario de Adviento casero con 24 retos de detective](/posts/calendario-de-adviento-casero-para-ninos/)** para imprimir gratis: adivinanzas, códigos secretos, tinta invisible y un mensaje final que se descubre el día 23. Solo necesitas una impresora y 24 sobres.
+Si prefieres no comprar nada, en ClueMasters tienes un **[calendario de Adviento casero con 24 retos de detective](/posts/calendario-de-adviento-casero-para-ninos/)** para imprimir gratis (también en PDF): adivinanzas, códigos secretos, tinta invisible y un mensaje final que se descubre el día 23. Solo necesitas una impresora y 24 sobres.
 
 Y para una tarde especial antes de Navidad, prueba nuestro [escape room navideño para niños](/posts/escape-room-navideno-para-ninos/): se juega en media hora y también es gratis.
 

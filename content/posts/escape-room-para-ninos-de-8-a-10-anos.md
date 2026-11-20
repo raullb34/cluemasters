@@ -1,6 +1,6 @@
 ---
-title: "Escape Room para Niños de 8 a 10 Años en Casa: Juego Gratis para Imprimir"
-description: "Escape room gratis para niños de 8 a 10 años: «El robo del diamante azul». Cifrado César, sopa de letras con mensaje oculto, sudoku y sospechosos, listo para imprimir con soluciones."
+title: "Escape Room para Niños de 8 a 10 Años: Gratis para Imprimir (PDF)"
+description: "Escape room para niños de 8 a 10 años gratis en PDF: el robo del diamante azul. Cifrado César, sopa de letras, sudoku y sospechosos, con soluciones."
 date: 2026-11-20
 lastmod: 2026-11-20
 draft: false
@@ -19,6 +19,9 @@ cover:
 A los 8–10 años los niños ya leen con soltura, les encantan los códigos secretos y quieren retos «de mayores». Este **escape room para niños de 8 a 10 años** está pensado justo para eso: cuatro pruebas encadenadas, un poco más difíciles que las de los pequeños, y un candado final que solo se abre con tres números.
 
 Todo lo que hay que imprimir está en este artículo, gratis, con las soluciones para el adulto al final. Sirve para una tarde en casa, un cumpleaños o una actividad en clase.
+
+> 📥 **[Descarga el juego completo en PDF](/pdf/escape-room-ninos-8-10-anos.pdf)** (7 páginas: instrucciones, las 4 pruebas, soluciones y diploma de agente). Gratis para uso personal y en el aula.
+
 
 | Ficha del juego | |
 | :--- | :--- |

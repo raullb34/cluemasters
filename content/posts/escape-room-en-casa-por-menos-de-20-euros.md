@@ -1,8 +1,8 @@
 ---
-title: "Cómo Montar un Escape Room en Casa por Menos de 20 € (Juego Completo Gratis)"
-description: "Escape room casero completo y gratis: «Invasión en Clue Street 13». 4 pruebas, mensaje cifrado imprimible, código del candado y lista de materiales por menos de 20 €."
+title: "Escape Room en Casa para Adultos por Menos de 20 € (Juego Gratis en PDF)"
+description: "Escape room casero para adultos y adolescentes, gratis en PDF: Invasión en Clue Street 13. 4 pruebas, mensaje cifrado y materiales por menos de 20 €."
 date: 2026-11-08
-lastmod: 2026-11-08
+lastmod: 2026-11-20
 draft: false
 tags: ["escape room", "casero", "imprimible", "low cost", "candados"]
 categories: ["Diseño de Puzzles"]
@@ -19,6 +19,9 @@ cover:
 ¿Quieres vivir la emoción de un escape room sin salir de casa y sin gastar una fortuna? En este artículo tienes un **juego completo y gratis** para montarlo en el salón por **menos de 20 €**: historia, cuatro pruebas encadenadas, el mensaje cifrado listo para imprimir y la lista exacta de materiales.
 
 Sirve para cumpleaños, noches en familia o una quedada con amigos.
+
+> 📥 **[Descarga el juego completo en PDF](/pdf/escape-room-invasion-clue-street-13.pdf)** (6 páginas: instrucciones, mensaje y clave, informe secreto, carta de victoria y soluciones). Gratis para uso personal y en el aula.
+
 
 | Ficha del juego | |
 | :--- | :--- |

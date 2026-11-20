@@ -1,6 +1,6 @@
 ---
 title: "Juegos de Mesa de Escape Room y Misterio para Regalar en Navidad 2026"
-description: "Los mejores juegos de mesa de escape room, detectives y misterio para regalar: EXIT, Unlock!, Sherlock Holmes Detective Asesor, MicroMacro, Mysterium, Cluedo Junior y más, por edades y número de jugadores."
+description: "Juegos de mesa de escape room y misterio para regalar: EXIT, Unlock!, Sherlock Holmes Detective Asesor, MicroMacro, Mysterium y Cluedo Junior, por edades."
 date: 2026-11-20
 lastmod: 2026-11-20
 draft: false
