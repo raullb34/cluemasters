@@ -10,6 +10,7 @@ author: "ClueMasters"
 slug: "calendario-de-adviento-casero-para-ninos"
 showToc: true
 tocOpen: true
+ogImage: "/images/og/calendario-de-adviento-casero-para-ninos.jpg"
 cover:
   image: "/images/adviento/retos-dias-1-12.svg"
   alt: "Tarjetas de retos para un calendario de Adviento casero"

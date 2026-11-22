@@ -10,6 +10,7 @@ author: "ClueMasters"
 slug: "escape-room-navideno-para-ninos"
 showToc: true
 tocOpen: true
+ogImage: "/images/og/escape-room-navideno-para-ninos.jpg"
 cover:
   image: "/images/escape-navidad/0-cuaderno-detective.svg"
   alt: "Cuaderno de detective de un escape room navideño para niños"

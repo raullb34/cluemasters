@@ -11,7 +11,7 @@ author: "ClueMasters"
 showToc: true
 tocOpen: true
 cover:
-  image: "/images/top6.png" # cámbialo si tienes una imagen
+  image: "/images/top6.jpg" # cámbialo si tienes una imagen
   alt: "Top kits escape room para casa"
   caption: "Comparativa de los mejores kits para jugar en casa"
 ---

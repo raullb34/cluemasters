@@ -10,7 +10,7 @@ slug: "el-arte-de-que-tus-jugadores-se-sientan-genios"
 showToc: true
 tocOpen: true
 cover:
-  image: "/images/dopamina.png"
+  image: "/images/dopamina.jpg"
   alt: "Psicología en pruebas de escape room"
   caption: "Mantener la dopamina en los jugadores"
 ---

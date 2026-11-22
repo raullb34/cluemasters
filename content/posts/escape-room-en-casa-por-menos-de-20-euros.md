@@ -10,6 +10,7 @@ author: "ClueMasters"
 slug: "escape-room-en-casa-por-menos-de-20-euros"
 showToc: true
 tocOpen: true
+ogImage: "/images/og/escape-room-en-casa-por-menos-de-20-euros.jpg"
 cover:
   image: "/images/escape-20/mensaje-alienigena.svg"
   alt: "Mensaje cifrado con símbolos alienígenas para un escape room casero"

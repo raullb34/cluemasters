@@ -11,7 +11,7 @@ slug: "juegos-de-mesa-escape-room-y-misterio-para-regalar"
 showToc: true
 tocOpen: true
 cover:
-  image: "/images/top6.png"
+  image: "/images/top6.jpg"
   alt: "Juegos de mesa de escape room y misterio para regalar"
   caption: "Ideas de regalo para detectives de todas las edades"
 ---

@@ -10,6 +10,7 @@ author: "ClueMasters"
 slug: "mejores-calendarios-de-adviento-de-juegos-y-misterio"
 showToc: true
 tocOpen: true
+ogImage: "/images/og/mejores-calendarios-de-adviento-de-juegos-y-misterio.jpg"
 cover:
   image: "/images/adviento/retos-dias-13-24.svg"
   alt: "Calendario de Adviento con retos de detective"

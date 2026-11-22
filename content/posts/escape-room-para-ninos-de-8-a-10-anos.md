@@ -10,6 +10,7 @@ author: "ClueMasters"
 slug: "escape-room-para-ninos-de-8-a-10-anos"
 showToc: true
 tocOpen: true
+ogImage: "/images/og/escape-room-para-ninos-de-8-a-10-anos.jpg"
 cover:
   image: "/images/escape-museo/4-sospechosos.svg"
   alt: "Fichas de sospechosos de un escape room para niños de 8 a 10 años"

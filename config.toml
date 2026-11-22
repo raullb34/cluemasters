@@ -1,6 +1,7 @@
 baseURL = "https://www.cluemasters.es/"
-languageCode = "es"
-title = "ClueMasters | Blog de Escape Rooms y Juegos de Mesa"
+languageCode = "es-ES"
+defaultContentLanguage = "es"
+title = "ClueMasters"
 theme = "PaperMod"
 uglyURLs = false
 enableRobotsTXT = true
@@ -15,7 +16,7 @@ canonifyURLs = true
   posts = "/posts/:slug/"
 
 [params]
-  description = "Reseñas y comparativas de juegos de mesa y escape rooms, artículos para juagadores, makers y game maasters"
+  description = "Escape rooms y juegos de misterio para jugar en casa: juegos gratis para imprimir, guías de candados y kits, y actividades para niños y familias."
   keywords = ["escape room", "kits", "juegos de mesa", "review", "blog", "reseñas", "juegos en casa", "scape rooms"]
   author = "ClueMasters"
   favicon = "/clue-masters.ico"
@@ -26,6 +27,11 @@ canonifyURLs = true
   tocopen = true
   disableThemeToggle = false
   env = "production"
+  homeTitle = "ClueMasters: escape rooms y juegos de misterio para jugar en casa"
+
+  [params.homeInfoParams]
+    Title = "Escape rooms y juegos de misterio para jugar en casa"
+    Content = "Juegos gratis para imprimir (también en PDF), guías de candados y kits, y actividades de detectives para niños, familias y amigos."
 
 [menu]
   [[menu.main]]

@@ -11,7 +11,7 @@ slug: "guia-de-candados-para-tu-escape-room"
 showToc: true
 tocOpen: true
 cover:
-  image: "/images/guia-candados.png"
+  image: "/images/guia-candados.jpg"
   alt: "Diferentes tipos de candados para un escape room casero"
   caption: "Elige el candado perfecto para maximizar el efecto eureka"
 ---
